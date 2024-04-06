@@ -1,0 +1,6 @@
+--- Proceso de investigación ---
+
+Al principio fue difícil encontrar un tutorial óptimo que explicara como instalar y adaptar Java fx al ambiente de trabajo, sin embargo, una vez finalizado el proceso de instalación me pareció muy intuitiva la forma en la que esta plataforma ofrece alternativas para crear una interfaz para una aplicación. Java fx cuenta con múltiples librerías que facilitan el proceso de crear una interfaz gráfica, al implementar sus clases, se pueden acceder a varios métodos que al principio no entendía (como por ejemplo el .setOnAction) pero una vez que fui profundizando en mi investigación todo empezaba a tener sentido, el uso de la app "scene builder" fue algo nuevo para mi, pero me pareció muy interesante analizar como estas dos plataformas trabajan en equipo para el desarrollo de una aplicación. La fuente de información que me ayudó a avanzar en el reto fue un video que encontré en youtube, la verdad, me gustó mucho la práctica y quiero seguir aprendiendo sobre todo este nuevo mundo.
+
+--- Link del video --- 
+https://www.youtube.com/watch?v=YtXtwar4v9U
